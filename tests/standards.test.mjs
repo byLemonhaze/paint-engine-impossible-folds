@@ -1,31 +1,10 @@
-import test from "node:test";
-import assert from "node:assert/strict";
-import { existsSync, readFileSync } from "node:fs";
-
-const packageJson = JSON.parse(
-  readFileSync(new URL("../package.json", import.meta.url), "utf8")
-);
-
-test("MIT license exists", () => {
-  assert.equal(existsSync(new URL("../LICENSE", import.meta.url)), true);
-});
-
-test("governance docs exist", () => {
-  assert.equal(existsSync(new URL("../CONTRIBUTING.md", import.meta.url)), true);
-  assert.equal(existsSync(new URL("../SECURITY.md", import.meta.url)), true);
-  assert.equal(existsSync(new URL("../CHANGELOG.md", import.meta.url)), true);
-});
-
-test("quality scripts exist", () => {
-  assert.equal(typeof packageJson.scripts?.build, "string");
-  assert.equal(typeof packageJson.scripts?.test, "string");
-  assert.equal(typeof packageJson.scripts?.verify, "string");
-});
-
-test("core project structure exists", () => {
-  assert.equal(existsSync(new URL("../index.html", import.meta.url)), true);
-  assert.equal(
-    existsSync(new URL("../PaintEngine-v1.07 [Passe-Partout] - INSCRIBED.html", import.meta.url)),
-    true
-  );
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { readFileSync, existsSync } from 'node:fs';
+const root = new URL('../', import.meta.url);
+test('maintenance files and V2 entry point are present', () => {
+  for (const name of ['LICENSE', 'CONTRIBUTING.md', 'SECURITY.md', 'CHANGELOG.md', 'AGENTS.md', 'docs/INSCRIPTION.md', 'docs/ARCHITECTURE.md', 'docs/WORKS.md']) {
+    assert.ok(existsSync(new URL(name, root)), name);
+  }
+  assert.match(readFileSync(new URL('index.html', root), 'utf8'), /url=local\/Paint-Engine-V2.html/);
 });

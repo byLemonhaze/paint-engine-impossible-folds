@@ -1,0 +1,87 @@
+{
+  "status": "pending-parent-inscription",
+  "releaseCommit": null,
+  "parent": {
+    "file": "on-chain-templates/Paint-Engine-V2.html",
+    "inscriptionId": null,
+    "bytes": 365014,
+    "sha256": "93df0a6ff929766f917ed50fcaae21c59bbee3c906cd31e54845306abc60badb"
+  },
+  "children": [
+    {
+      "number": "01",
+      "file": "inscription-ready/01-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "02",
+      "file": "inscription-ready/02-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "03",
+      "file": "inscription-ready/03-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "04",
+      "file": "inscription-ready/04-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "05",
+      "file": "inscription-ready/05-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "06",
+      "file": "inscription-ready/06-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "07",
+      "file": "inscription-ready/07-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "08",
+      "file": "inscription-ready/08-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "09",
+      "file": "inscription-ready/09-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "10",
+      "file": "inscription-ready/10-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "11",
+      "file": "inscription-ready/11-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    },
+    {
+      "number": "12",
+      "file": "inscription-ready/12-Impossible-Folds.html",
+      "inscriptionId": null,
+      "sha256": null
+    }
+  ],
+  "provenance": "not-recorded",
+  "verificationNotes": [],
+  "publicReleaseAuthorized": false
+}

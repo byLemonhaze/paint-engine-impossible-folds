@@ -1,0 +1,155 @@
+{
+  "title": "Impossible Folds",
+  "artist": "Lemonhaze",
+  "parent": {
+    "file": "Paint-Engine-V2.html",
+    "bytes": 365014,
+    "sha256": "93df0a6ff929766f917ed50fcaae21c59bbee3c906cd31e54845306abc60badb"
+  },
+  "works": [
+    {
+      "number": "01",
+      "title": "Impossible Folds 01",
+      "file": "01-Impossible-Folds.html",
+      "palette": "Gentleman 5",
+      "date": "2026-10-25 · 11:27:15 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBg9MSC0xAEY4NkZTUsK3ADAwOQPoAQYRAFdpbmsgwrcgAFJhdyBsaW5lEG4DyAEAMAgDBABB2reH9MAAAAAD3wMGJUdyaQBmZmludG93bgAsIE1vbnRyZQBhbCwgUXVlYgBlYywgQ2FuYQBkYQADIvnh",
+      "localBytes": 1122,
+      "localSha256": "c2a54bdd367dac163af0ea6e897b19c1caf3ed944b204bc35545f97855e03a7e",
+      "templateBytes": 1134,
+      "templateSha256": "33b26a7b05ae6d8e5a02edffc4f33f50fc5b00ff2b7981a4b02d937aa2eeedda"
+    },
+    {
+      "number": "02",
+      "title": "Impossible Folds 02",
+      "file": "02-Impossible-Folds.html",
+      "palette": "Gentleman 5",
+      "date": "2026-10-25 · 11:29:00 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBi1MSC0xAEY4NkZTUsK3qDAwOQBRNwChOADwJDY2AUAxMgGQNTABAKExA-gBBhFXAGluayDCtyBSAGF3IGxpbmVuCAPIAQAwCAMEQQDat4gPAAAAAwDfAwYlR3JpZgBmaW50b3duLAAgTW9udHJlYQBsLCBRdWViZQBjLCBDYW5hZABhAI-ZpSY",
+      "localBytes": 1153,
+      "localSha256": "73f1e6dcd14e466a809d167f054ed1e4a5efa8ecc7ea8b4e8125bb02231f30c4",
+      "templateBytes": 1165,
+      "templateSha256": "a9c33664623b393ccb9c25c9d52b88fd7789ba07c2323e75cb9fc5e52ffadf93"
+    },
+    {
+      "number": "03",
+      "title": "Impossible Folds 03",
+      "file": "03-Impossible-Folds.html",
+      "palette": "Gentleman 5",
+      "date": "2026-10-25 · 11:30:54 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBjxMSC0xAEY4NkZTUsK3qDAwOQBRNwChOADwJDY2AUAxMgGQNTBNAKExAjEA8TEzAtA3ADgD6AEGEVdpAG5rIMK3IFJhAHcgbGluZW4DBMgBADAIAwRB2gC3iCuAAAAD3wADBiVHcmlmZgBpbnRvd24sIABNb250cmVhbAAsIFF1ZWJlYwAsIENhbmFkYQAASfvpyQ",
+      "localBytes": 1168,
+      "localSha256": "d041611d2f385892a4c8aed3eb468c71f76684525e77ab1abb0099ebe3bdee2b",
+      "templateBytes": 1180,
+      "templateSha256": "fbe19dac572267379593d05004fa5f9b67c2511fc6b1b7fd0c6aa3a260a2a24e"
+    },
+    {
+      "number": "04",
+      "title": "Impossible Folds 04",
+      "file": "04-Impossible-Folds.html",
+      "palette": "Gentleman 15",
+      "date": "2026-10-25 · 22:46:24 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBjJMSC0xADdPVEdGRcK3SDA3MgBQNDUAoDYyMADwMjEAoQFBNzQFAPE4AjAzOQP8AQAGEVdpbmsgwgC3IFJhdyBsaUBuZW4DyAEAMAgAAwRB2revwAAAAAAD3wMGJUcAcmlmZmludG8Ad24sIE1vbnQAcmVhbCwgUXUAZWJlYywgQ2EAbmFkYQAfke0Anw",
+      "localBytes": 1160,
+      "localSha256": "f823eff6177b79ac396215c4383e49f8a95948c652b026b97991afc69966a248",
+      "templateBytes": 1172,
+      "templateSha256": "bf1a1446f3f057d602cf54649d05c33bc17d8be6207c68570d81941329533522"
+    },
+    {
+      "number": "05",
+      "title": "Impossible Folds 05",
+      "file": "05-Impossible-Folds.html",
+      "palette": "Gentleman 15",
+      "date": "2026-10-25 · 22:50:45 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBixMSC1DAEZSR0JLwrcwpDMzAFAxOQBRMgDwZDI1AUA2NgChAZEwADgD_AEGEVdpAG5rIMK3IFJhAHcgbGluZW4DBMgBADAIAwRB2gC3sAFAAAAD3wADBiVHcmlmZgBpbnRvd24sIABNb250cmVhbAAsIFF1ZWJlYwAsIENhbmFkYQAA9GrCPw",
+      "localBytes": 1152,
+      "localSha256": "7abc7a7741f4a5bc8cefadc575887f342ffcb761d0fcea22d121174fd83e0f77",
+      "templateBytes": 1164,
+      "templateSha256": "64ec72143bbedb60e9f5098d883643056dcc3015f4e37dec8a7798629e2f8e74"
+    },
+    {
+      "number": "06",
+      "title": "Impossible Folds 06",
+      "file": "06-Impossible-Folds.html",
+      "palette": "Gentleman 15",
+      "date": "2026-10-25 · 23:38:39 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBh1MSC1DAFBNV01TwrcwpDI2AFAwMQChNADwADM2A_wBBhFXAGluayDCtyBSAGF3IGxpbmVuCAPIAQAwCAMEQQDat7LPwAAAAwDfAwYlR3JpZgBmaW50b3duLAAgTW9udHJlYQBsLCBRdWViZQBjLCBDYW5hZABhAADLfGY",
+      "localBytes": 1137,
+      "localSha256": "20fc1ced580107935be403e65cb6f00d6dfab6dd9eb2f745cbf5638a641ee83e",
+      "templateBytes": 1149,
+      "templateSha256": "36f1ad2965d48a7023b56ffe90169c4fca16c4a166ed0b16fc6fe8ea1563813d"
+    },
+    {
+      "number": "07",
+      "title": "Impossible Folds 07",
+      "file": "07-Impossible-Folds.html",
+      "palette": "Bauhaus Afterparty",
+      "date": "2026-10-26 · 21:49:33 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBg9MSC0xAFZRMVJSMcK3ADA1MwOoAgYRAFdpbmsgwrcgAFJhdyBsaW5lEG4DyAEAMAgDBABB2rgAy0AAAAAD3wMGJUdyaQBmZmludG93bgAsIE1vbnRyZQBhbCwgUXVlYgBlYywgQ2FuYQBkYQA9rywK",
+      "localBytes": 1122,
+      "localSha256": "0752c8c59a51daa2ba468e4372c2cc0f98fd1470be9dd9b65a3091e77a0c6dc2",
+      "templateBytes": 1134,
+      "templateSha256": "6930df2970e9651f722a8c1da0c0a8df533115e6329096c81c7f8c02ab7447fb"
+    },
+    {
+      "number": "08",
+      "title": "Impossible Folds 08",
+      "file": "08-Impossible-Folds.html",
+      "palette": "Bauhaus Afterparty",
+      "date": "2026-10-26 · 20:38:10 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBjxMSC0xADdLSEpMMcK3SDAwNABQNTUAoDOlAPI3AUAxOABROQHgMjIA8TU2AeEAUTQxAAOoAgYRV2luAGsgwrcgUmF3ACBsaW5lbgPIAgEAMAgDBEHatwD8nIAAAAPfAwAGJUdyaWZmaQBudG93biwgTQBvbnRyZWFsLAAgUXVlYmVjLAAgQ2FuYWRhAACw4m2M",
+      "localBytes": 1166,
+      "localSha256": "03be1e006af6c58f315a9506430f3e1a9a01221186733653bd718849002c591b",
+      "templateBytes": 1178,
+      "templateSha256": "41dc5f01e91bc19812a160dde3ef0ef416a458fe6944a6efe8d28b04056506e4"
+    },
+    {
+      "number": "09",
+      "title": "Impossible Folds 09",
+      "file": "09-Impossible-Folds.html",
+      "palette": "Bauhaus Afterparty",
+      "date": "2026-10-26 · 22:21:29 UTC−04:00",
+      "seed": "LH4-AAgDA6KwgoABAAgGBhlMSC0xAFg4VTBCM8K3JDA1AFEwMQCgMzUAA6gCBhFXaW4AayDCtyBSYXcAIGxpbmVuA8gCAQAwCAMEQdq4AAKqQAAAA98DAAYlR3JpZmZpAG50b3duLCBNAG9udHJlYWwsACBRdWViZWMsACBDYW5hZGEAAA6S3KU",
+      "localBytes": 1133,
+      "localSha256": "bdf0dbbcd08c0542da16979e0a9c62fa2feda0c2b119d5cf7c4bed5f2dd9a29a",
+      "templateBytes": 1145,
+      "templateSha256": "62bf3331899751c97a41d10557332cd1b613b9b57a0ab423881ab2f7c92dbebb"
+    },
+    {
+      "number": "10",
+      "title": "Impossible Folds 10",
+      "file": "10-Impossible-Folds.html",
+      "palette": "Balance",
+      "date": "2026-11-04 · 21:27:31 UTC−05:00",
+      "seed": "LH4-AAgDA6KxgrQBAAgKBmdMSC1YAFhLN1g0wrcwVDM4AFAxAKE0APExkjMBQDg5AUU3NQIxaQFBMTECgTIB4QNxMHUDcTcC0TIC0gNyBLE5BjAFUANhNjEDDgMAcgYRV2luayAAwrcgUmF3IGyAaW5lbgPIAQAxABAGEU1hdGVyIGlhbCBkAFBvZwB1ZQPEAQgDBABB2rr6ZMAAAAAD1wQGJUdyaQBmZmludG93bgAsIE1vbnRyZQBhbCwgUXVlYgBlYywgQ2FuYQBkYQB8VLQW",
+      "localBytes": 1230,
+      "localSha256": "b347b52e19810d150f0159026407b2a6e42c7af16a23920802ecc78589314aa0",
+      "templateBytes": 1242,
+      "templateSha256": "ad5bef70d5a491aa5977047831471a2c24d8df4d876dd0703003c42e24506630"
+    },
+    {
+      "number": "11",
+      "title": "Impossible Folds 11",
+      "file": "11-Impossible-Folds.html",
+      "palette": "Balance",
+      "date": "2026-11-04 · 21:30:45 UTC−05:00",
+      "seed": "LH4-AAgDA6KxgrQBAAgKBhRMSC0xAERMUDBVUMK3CDAzMQBQNTgDDgADcgYRV2luawAgwrcgUmF3IABsaW5lbgPIAQEAMRIGDUJhc2sAZXQgcmVsaWUAZgPEAQgDBEEA2rr6lUAAAAMA1wQGJUdyaWYAZmludG93biwAIE1vbnRyZWEAbCwgUXVlYmUAYywgQ2FuYWQAYQBrnWqJ",
+      "localBytes": 1158,
+      "localSha256": "05f651c3d898bdb5c9d6f0817656a81ee7e67e1e71cda61e2db11f93aaf65214",
+      "templateBytes": 1170,
+      "templateSha256": "57cda246814407a449f36d126ceb8d59920d4a10a5cb94e17e0869d10436db39"
+    },
+    {
+      "number": "12",
+      "title": "Impossible Folds 12",
+      "file": "12-Impossible-Folds.html",
+      "palette": "Balance",
+      "date": "2026-11-04 · 21:40:25 UTC−05:00",
+      "seed": "LH4-AAgDA6bxgrQBAAgMBlRMSC1YAFhLN1g0LTAzUDgtMDEAgDQAwDEgMy0wODkBAzc10wHAAQAxMQIAMgGAAsDqMALANwJAMgJBAsEDwBA5MC0wArA2MQMAGgMOA3IGEVcAaW5rIMK3IFIAYXcgbGluZW4gA8gBAwAAURAGABBPZmZzZXQgAG1hcnF1ZXRyAHkDxAEIAwRBANq6-yZAAAADANcEBiVHcmlmAGZpbnRvd24sACBNb250cmVhAGwsIFF1ZWJlAGMsIENhbmFkAGEAvHe2Bw",
+      "localBytes": 1236,
+      "localSha256": "16cf9803d09607a9bd6014c9d9fc4fafd686849638f59a743d11051784d7f75d",
+      "templateBytes": 1248,
+      "templateSha256": "7a8d46957bf8eaf636d4f270e6990b164e8bd890cdc446b607438ec77d117329"
+    }
+  ]
+}

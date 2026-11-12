@@ -1,0 +1,5 @@
+# Preserve inscription payload bytes on every operating system.
+local/*.html -text
+on-chain-templates/*.html -text
+legacy/**/*.html -text
+manifest.json -text
